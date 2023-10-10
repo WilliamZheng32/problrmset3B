@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=problemset3b
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ computerchoice()
+comment3.params=winner
+comment3.target=java.lang.String\ result(int)
+numComments=4
